@@ -1,3 +1,3 @@
-# A Zellij Plugin written in Zig
+# A Zellij Plugin API written in Zig
 
 ## Under construction
